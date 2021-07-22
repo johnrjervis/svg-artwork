@@ -1,0 +1,22 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <ellipse cx="150" cy="100" rx="100" ry="64" style="fill:yellow;stroke:black;stroke-width:8" />
+
+  <circle cx="55" cy="100" r="15" style="fill:yellow" />
+  <path d="M 56 115 A 15 15 0 0 1 56 85" style="stroke:black;stroke-width:8;fill:none" />
+
+  <circle cx="245" cy="100" r="15" style="fill:yellow" />
+  <path d="M 244 85 A 15 15 0 0 1 244 115" style="stroke:black;stroke-width:8;fill:none" />
+
+  <polygon points="120,130 113.9,134 120,138" style="stroke:black;stroke-width:2" />
+  <polygon points="90,90 96.9,94 90,98" style="stroke:black;stroke-width:2" />
+  <polygon points="150,60 154,66.9 158,60" style="stroke:black;stroke-width:2" />
+  <polygon points="200,100 204,93.1 208,100" style="stroke:black;stroke-width:2" />
+  <polygon points="180,130 185.7,135.7 187.8,127" style="stroke:black;stroke-width:2" />
+  <polygon points="145,110 150.7,104.3 152.8,112" style="stroke:black;stroke-width:2" />
+
+</svg>
+
