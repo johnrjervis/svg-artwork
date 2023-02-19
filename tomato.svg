@@ -1,0 +1,17 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="600" height="480"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" width="600" height="480" fill="orange" />
+  <ellipse cx="300" cy="260" rx="240" ry="210" style="fill:#C80000;stroke:black;stroke-width:8" />
+  <ellipse cx="300" cy="70" rx="40" ry="20" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="270,62 120,85 270,78" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="330,60 400,80 470,125 400,95 330,80" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="272,80 210,125 180,165 230,125 296,87" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="324,81 410,155 304,87" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="275,60 225,35 230,35 290,53" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="330,61 370,35 315,55" style="fill:darkgreen;stroke:black;stroke-width:8" />
+  <polyline points="293,70 293,35 295,25 298,15 316,15 314,25 312,35 312,70" style="fill:darkgreen;stroke:black;stroke-width:8" />
+
+</svg>
